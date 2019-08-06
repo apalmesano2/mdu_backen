@@ -1,1 +1,1 @@
-web: gunicorn mdu.wsgi --log-file -
+web: gunicorn back.wsgi --log-file -
