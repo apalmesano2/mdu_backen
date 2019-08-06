@@ -37,9 +37,9 @@ DEBUG = True
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.db.postgresql',
-        'NAME': 'd40r1700jiu2g1',
-        'USER': 'pnbolbcuidfcgb',
-        'PASSWORD': '5ddd0c03388665dc45822604438ec6410a67c383742c58c6890a2b711426c8c5',
+        'NAME': 'd3i82okp6vebsv',
+        'USER': 'vkfrfllqtndasq',
+        'PASSWORD': '7db175fb554f3bff2e3f5a8c0fbcb7d4201d043dfafa4a63d125b68802339b25',
         'HOST': 'ec2-174-129-41-127.compute-1.amazonaws.com',
         'PORT': 5432
 }
