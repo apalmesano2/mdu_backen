@@ -1,0 +1,1 @@
+web: gunicorn mdu.wsgi --log-file -
