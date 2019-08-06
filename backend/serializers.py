@@ -6,4 +6,4 @@ class MduUserSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = MduUser
-        fields = ('id', 'name', 'zip_code', 'email', 'news_preference', 'stock_preference')
+        fields = ('id', 'name', 'zip_code', 'email', 'news_preference', 'stock_preference', 'favorite_team')
