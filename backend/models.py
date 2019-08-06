@@ -9,6 +9,7 @@ class MduUser(models.Model):
     email = models.EmailField(max_length=200)
     news_preference = models.CharField(max_length=50)
     stock_preference = models.CharField(max_length=50)
+    favorite_team = models.CharField(max_length=100)
     created_date = models.DateTimeField(
         default=timezone.now)
     updated_date = models.DateTimeField(auto_now_add=True)
