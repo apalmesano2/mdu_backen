@@ -6,6 +6,6 @@ django-heroku==0.3.1
 djangorestframework==3.7.7
 djangorestframework-jwt==1.11.0
 gunicorn==19.9.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 pytz==2018.5
 whitenoise==4.1.3
